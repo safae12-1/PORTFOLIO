@@ -23,7 +23,7 @@ function Contact() {
         <Col md={12} className="home-about-social">
         <h1>Vous pouvez me trouver sur</h1>
           <p>
-            N'hésitez pas à me <span className="purple">contacter</span>
+            N'hésitez pas à me <span>contacter</span>
           </p>
           <ul className="home-about-social-links">
             <li className="social-icons">

@@ -8,10 +8,10 @@ function Home2() {
         <Row>
           <Col  className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-            Permettez-moi de <span className="purple">me présenter</span>
+            Permettez-moi de <span >me présenter</span>
             </h1>
             <p className="home-about-body">
-              J'ai développé une véritable passion pour la programmation et j'ai acquis une solide expertise dans plusieurs langages, notamment le <i><b className="purple">Python et Java</b></i>, ainsi que le framework <i><b className="purple">Flask</b></i> pour Python. J'ai également une expérience significative dans le développement web, la conception de bases de données et la résolution de problèmes informatiques.
+              J'ai développé une véritable passion pour la programmation et j'ai acquis une solide expertise dans plusieurs langages, notamment le <i><b >Python et Java</b></i>, ainsi que le framework <i><b >Flask</b></i> pour Python. J'ai également une expérience significative dans le développement web, la conception de bases de données et la résolution de problèmes informatiques.
               <br />
               <br />
               Mon domaine d'expertise s'étend aux technologies modernes telles que le développement d'applications web . J'ai travaillé sur divers projets, allant de la création de sites web dynamiques.

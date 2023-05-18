@@ -22,20 +22,20 @@ function About() {
             }}
           >
            <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-  Découvrez qui <strong className="purple">je suis</strong>
+  Découvrez qui <strong >je suis</strong>
 </h1>
 <Aboutcard />
 </Col>
 
 </Row>
 <h1 className="project-heading">
-  Ensemble des compétences <strong className="purple">professionnelles</strong>
+  Ensemble des compétences <strong >professionnelles</strong>
 </h1>
 
 <Techstack />
 
 <h1 className="project-heading">
-  Outils <strong className="purple">que j'utilise</strong>
+  Outils <strong >que j'utilise</strong>
 </h1>
 <Toolstack />
 
