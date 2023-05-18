@@ -1,8 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
-
 
 import python from "../../Assets/Projects/python.jfif";
 import blockchaine from "../../Assets/Projects/blockchaine.jfif";
@@ -12,14 +10,12 @@ import WordPress from "../../Assets/Projects/WordPress.jpg";
 function Projects() {
   return (
     <Container fluid className="project-section">
-      <Particle />
+     
       <Container>
       <h1 className="project-heading">
-          Mes <strong >Travaux</strong> Récents
+          Mes Projets
         </h1>
-        <p style={{ color: "white" }}>
-          Voici quelques projets sur lesquels j'ai récemment travaillé.
-        </p>
+
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard

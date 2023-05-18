@@ -12,19 +12,22 @@ function Contact() {
     <div>
       <br />
       <br />
+
       <br />
       <br />
-      <br />
-      <br />
-      <br />
+   
       <br />
 
       <Row>
         <Col md={12} className="home-about-social">
-        <h1>Vous pouvez me trouver sur</h1>
-          <p>
-            N'hésitez pas à me <span>contacter</span>
-          </p>
+        <br />
+      <br />
+        <h1>Contact</h1>
+        <br />
+      <br />
+      <br />
+
+
           <ul className="home-about-social-links">
             <li className="social-icons">
               <a
@@ -95,7 +98,6 @@ function Contact() {
       <br />
       <br />
       <br />
-   
 
  
     </div>

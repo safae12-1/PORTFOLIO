@@ -5,10 +5,11 @@ import Particle from "../Particle";
 import Techstack from "./Techstack";
 import Aboutcard from "./AboutCard";
 
-import Toolstack from "./Toolstack";
+
 
 function About() {
   return (
+    <div>
     <Container fluid className="about-section">
       <Particle />
       <Container>
@@ -21,26 +22,32 @@ function About() {
               paddingBottom: "50px",
             }}
           >
-           <h1 style={{ fontSize: "2.1em", paddingBottom: "20px" }}>
-  Découvrez qui <strong >je suis</strong>
-</h1>
+
 <Aboutcard />
 </Col>
 
 </Row>
-<h1 className="project-heading">
-  Ensemble des compétences <strong >professionnelles</strong>
+<h1 >
+  Ensemble des compétences professionnelles
 </h1>
 
 <Techstack />
 
-<h1 className="project-heading">
-  Outils <strong >que j'utilise</strong>
-</h1>
-<Toolstack />
+
 
       </Container>
     </Container>
+          <br />
+          <br />
+          <br />
+          <br />
+     
+          <br />
+          <br />   <br />
+          <br />
+    
+     
+        </div>
   );
 }
 

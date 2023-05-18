@@ -51,7 +51,7 @@ function NavBar() {
                 to="/about"
                 onClick={() => updateExpanded(false)}
               >
-                 À propos
+                 Competences
               </Nav.Link>
             </Nav.Item>
 
