@@ -7,7 +7,7 @@ function AboutCard() {
       <Card.Body class="container">
         <p   style={{ textAlign: "justify" }}>
          Je m'appelle Safae Hachem et je viens d'El Jadida, au Maroc.
-         Actuellement, je suis étudiant en première année de génie informatique à l'ENSAJ.
+         Actuellement, je suis étudiante en première année de génie informatique à l'ENSAJ.
           <br />
           <br />
           En dehors du monde de la programmation, j'ai d'autres passions et activités qui me tiennent à cœur :
