@@ -66,8 +66,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-       
-
             <Nav.Item>
             <Nav.Link
                 as={Link}
@@ -78,7 +76,6 @@ function NavBar() {
               </Nav.Link>
             </Nav.Item>
 
-       
           </Nav>
         </Navbar.Collapse>
       </Container>
