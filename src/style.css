@@ -423,14 +423,7 @@ button:focus {
   height: auto !important;
 }
 
-.project-card-view {
-  box-shadow: 0 4px 5px 3px rgba(72, 85, 144, 0.561) !important;
-  color: white !important;
-  background-color: transparent !important;
-  opacity: 0.9 !important;
-  transition: all 0.5s ease 0s !important;
-  height: 100% !important;
-}
+
 .project-card-view:hover {
   transform: scale(1.02) !important;
   overflow: hidden !important;
@@ -486,11 +479,7 @@ button:focus {
   border-color: #364786 !important;
 }
 
-.btn-primary:hover {
-  color: #fff !important;
-  background-color: #202ec5d7 !important;
-  border-color: #2028c5d7 !important;
-}
+
 .btn:focus {
   outline: none !important;
   box-shadow: none !important;
@@ -562,49 +551,6 @@ button:focus {
     padding-top: 0 !important;
   }
 }
-
-
-
-
-.resume-section {
-  position: relative !important;
-  padding-top: 110px !important;
-  padding-bottom: 30px !important;
-  background-image: var(--section-background-color) !important;
-  color: white !important;
-}
-
-.resume {
-  padding-top: 50px;
-  padding-bottom: 50px;
-  justify-content: center;
-}
-
-.resume-left {
-  padding-right: 80px !important;
-}
-
-.resume-right {
-  padding-left: 80px !important;
-}
-
-@media (max-width: 767px) {
-  .resume-left {
-    padding-right: 15px !important;
-    padding-left: 15px !important;
-  }
-
-  .resume-right {
-    padding-right: 15px !important;
-    padding-left: 15px !important;
-  }
-}
-
-
-
-
-
-
 
 
 .like-item {
